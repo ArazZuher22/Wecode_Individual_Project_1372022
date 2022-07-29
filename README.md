@@ -1,2 +1,2 @@
-# Wecode_Personal_Project_1372022
+# Wecode_Individual_Project_1372022
 Personal project 
